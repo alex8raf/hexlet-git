@@ -73,13 +73,13 @@ P.S. Если твой PC всё-таки не потянул игру, то т�
 
 [![Демонстрация игры "Калькулятор"](https://asciinema.org/a/UF3AjcbhBT2jcW5Hh27VIoqpZ.png 'brain-calc')](https://asciinema.org/a/UF3AjcbhBT2jcW5Hh27VIoqpZ)
 
-[![Демонстрация игры "Арифметическая прогрессия"](src/pictures/brain-progression.png 'brain-progression')](https://asciinema.org/a/T9yHFESoWDvYuo6A5Kig8tnH3)
+[![Демонстрация игры "Арифметическая прогрессия"](https://asciinema.org/a/T9yHFESoWDvYuo6A5Kig8tnH3.png 'brain-progression')](https://asciinema.org/a/T9yHFESoWDvYuo6A5Kig8tnH3)
 
-[![Демонстрация игры "Определение наибольшего общего делителя"](src/pictures/brain-gcd.png 'brain-gcd')](https://asciinema.org/a/M3lYe7fI5tfe04xf9Rg6ukGkG)
+[![Демонстрация игры "Определение наибольшего общего делителя"](https://asciinema.org/a/M3lYe7fI5tfe04xf9Rg6ukGkGpng 'brain-gcd')](https://asciinema.org/a/M3lYe7fI5tfe04xf9Rg6ukGkG)
 
-[![Демонстрация игры "Определение простого числа"](src/pictures/brain-prime.png 'brain-prime')](https://asciinema.org/a/Q4Mz66wymhOKL0fK3vheiY2Xw)
+[![Демонстрация игры "Определение простого числа"](https://asciinema.org/a/Q4Mz66wymhOKL0fK3vheiY2Xw.png 'brain-prime')](https://asciinema.org/a/Q4Mz66wymhOKL0fK3vheiY2Xw)
 
-[![Демонстрация игры "Определение чётного числа"](src/pictures/brain-even.png 'brain-even')](https://asciinema.org/a/tLJVpyMTaxoQZtM6jGL29GKQF)
+[![Демонстрация игры "Определение чётного числа"](https://asciinema.org/a/tLJVpyMTaxoQZtM6jGL29GKQF.png 'brain-even')](https://asciinema.org/a/tLJVpyMTaxoQZtM6jGL29GKQF)
 
 ### Hexlet tests and linter status:
 
