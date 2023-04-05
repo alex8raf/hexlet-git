@@ -75,7 +75,7 @@ P.S. Если твой PC всё-таки не потянул игру, то т�
 
 [![Демонстрация игры "Арифметическая прогрессия"](https://asciinema.org/a/T9yHFESoWDvYuo6A5Kig8tnH3.png 'brain-progression')](https://asciinema.org/a/T9yHFESoWDvYuo6A5Kig8tnH3)
 
-[![Демонстрация игры "Определение наибольшего общего делителя"](https://asciinema.org/a/M3lYe7fI5tfe04xf9Rg6ukGkGpng 'brain-gcd')](https://asciinema.org/a/M3lYe7fI5tfe04xf9Rg6ukGkG)
+[![Демонстрация игры "Определение наибольшего общего делителя"](https://asciinema.org/a/M3lYe7fI5tfe04xf9Rg6ukGkG.png 'brain-gcd')](https://asciinema.org/a/M3lYe7fI5tfe04xf9Rg6ukGkG)
 
 [![Демонстрация игры "Определение простого числа"](https://asciinema.org/a/Q4Mz66wymhOKL0fK3vheiY2Xw.png 'brain-prime')](https://asciinema.org/a/Q4Mz66wymhOKL0fK3vheiY2Xw)
 
