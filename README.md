@@ -71,7 +71,7 @@ brain-even
 
 P.S. Если твой PC всё-таки не потянул игру, то ты можешь пройти её вместе с нами (почти как на YouTube):
 
-[![Демонстрация игры "Калькулятор"]('brain-calc')](https://asciinema.org/a/UF3AjcbhBT2jcW5Hh27VIoqpZ)
+![Демонстрация игры "Калькулятор"](https://asciinema.org/a/UF3AjcbhBT2jcW5Hh27VIoqpZ)
 
 [![Демонстрация игры "Арифметическая прогрессия"](src/pictures/brain-progression.png 'brain-progression')](https://asciinema.org/a/T9yHFESoWDvYuo6A5Kig8tnH3)
 
